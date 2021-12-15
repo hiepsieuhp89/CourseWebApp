@@ -1,0 +1,6 @@
+[submodule "CourseWebBE_ASP.NET"]
+	path = CourseWebBE_ASP.NET
+	url = https://github.com/hiepsieuhp89/CourseWebBE_ASP.NET
+[submodule "CourseWebFE_ReactJs"]
+	path = CourseWebFE_ReactJs
+	url = https://github.com/hiepsieuhp89/CourseWebFE_ReactJs
